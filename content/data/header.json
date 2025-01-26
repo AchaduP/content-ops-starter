@@ -10,7 +10,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "About Us",
             "altText": "Dropdown",
             "links": [
                 {

@@ -4,10 +4,10 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-36",
-                    "mt-36",
-                    "ml-36",
-                    "mb-36"
+                    "mr-72",
+                    "mt-72",
+                    "ml-72",
+                    "mb-72"
                 ],
                 "padding": [
                     "pt-0",

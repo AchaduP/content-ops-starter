@@ -7,7 +7,7 @@ sections:
       text: 'Transform your life, one step at a time!'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ...and become your best YOU
     text: >+
       Welcome to TransformU Hub, where personal growth meets transformation. We
       provide tools, resources, and mentorship to help you unlock your

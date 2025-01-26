@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transform your lifeone step at a time!VT
+      text: 'Transform your life, one step at a time!'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

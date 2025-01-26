@@ -22,7 +22,8 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "logo"
+        "elementId": "logo",
+        "url": "/images/favicon.svg"
     },
     "primaryLinks": [
         {

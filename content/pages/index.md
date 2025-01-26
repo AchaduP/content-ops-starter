@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Enroll NOW
         altText: ''
         url: /
         showIcon: true

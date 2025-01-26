@@ -142,7 +142,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Regions",
             "altText": "Dropdown",
             "links": [
                 {

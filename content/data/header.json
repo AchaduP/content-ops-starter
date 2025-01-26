@@ -16,7 +16,7 @@
                     "pb-0",
                     "pr-0"
                 ],
-                "borderRadius": "none",
+                "borderRadius": "medium",
                 "borderWidth": 2,
                 "borderColor": "border-dark",
                 "borderStyle": "dashed"

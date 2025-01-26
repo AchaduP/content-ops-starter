@@ -41,7 +41,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: TRANSFORmU Global
       color: text-primary
       type: Badge
     elementId: ''

@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Transform your life, one step at a time!'
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >

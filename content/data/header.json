@@ -11,10 +11,10 @@
                     "mb-0"
                 ],
                 "padding": [
-                    "pt-24",
-                    "pl-24",
-                    "pb-24",
-                    "pr-24"
+                    "pt-3",
+                    "pl-3",
+                    "pb-3",
+                    "pr-3"
                 ],
                 "borderRadius": "medium",
                 "borderWidth": 2,

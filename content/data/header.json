@@ -17,7 +17,8 @@
                     "pr-0"
                 ],
                 "borderRadius": "none",
-                "borderWidth": 2
+                "borderWidth": 2,
+                "borderColor": "border-dark"
             }
         },
         "type": "ImageBlock",

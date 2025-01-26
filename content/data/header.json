@@ -133,7 +133,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Contact Us",
+            "label": "Regions",
             "altText": "Dropdown",
             "links": [
                 {
@@ -174,7 +174,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Regions",
+            "label": "Contact Us",
             "altText": "Dropdown",
             "links": [
                 {

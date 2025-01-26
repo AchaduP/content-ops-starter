@@ -133,7 +133,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Contact Us",
             "altText": "Dropdown",
             "links": [
                 {

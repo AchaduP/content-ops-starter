@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Welcome to TransformU Hub, where personal growth meets transformation. We
+      provide tools, resources, and mentorship to help you unlock your
+      potential, boost productivity, and discover purpose. Join us and start
+      your journey to becoming the best version of yourself.
+
+
+
     actions:
       - label: Get started
         altText: ''

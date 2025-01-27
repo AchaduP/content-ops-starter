@@ -53,7 +53,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://www.facebook.com/share/r/15yWvkFcoX/?mibextid=V2iOCx'
+      url: 'https://youtu.be/4VtXhZ0fQOE?si=_A23p8A7AU2kovOK'
       autoplay: true
       loop: true
       muted: false

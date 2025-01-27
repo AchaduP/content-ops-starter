@@ -39,6 +39,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/abstract-feature1.svg
     badge:
       label: TRANSFORmU Global
       color: text-primary

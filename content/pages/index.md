@@ -26,10 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-    badge:
-      label: TRANSFORmU Global
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:

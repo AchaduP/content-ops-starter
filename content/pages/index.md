@@ -35,11 +35,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: TRANSFORmU Global
       color: text-primary
@@ -55,6 +50,26 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    media:
+      type: VideoBlock
+      title: Purpose
+      url: 'https://youtu.be/4VtXhZ0fQOE?si=_A23p8A7AU2kovOK'
+      autoplay: true
+      loop: true
+      muted: false
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
   - type: FeaturedItemsSection
     title:
       text: Key Benefits

@@ -1,9 +1,9 @@
 {
-    "light": "#A8D5BA",
-    "dark": "#2D6A4F",
+    "light": "#00ba4a",
+    "dark": "#000000",
     "neutral": "#FFFFFF",
     "neutralAlt": "#F4F4F4",
-    "primary": "#FFD700",
+    "primary": "#000000",
     "fontBody": "serif",
     "fontHeadlines": "sans",
     "h1": {
@@ -59,7 +59,7 @@
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "shadow": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "type": "ThemeStyleButton"

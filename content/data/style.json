@@ -4,7 +4,7 @@
     "neutral": "#FFFFFF",
     "neutralAlt": "#F4F4F4",
     "primary": "#FFD700",
-    "fontBody": "sans",
+    "fontBody": "serif",
     "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",

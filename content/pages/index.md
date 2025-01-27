@@ -26,15 +26,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Enroll NOW
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     badge:
       label: TRANSFORmU Global
       color: text-primary

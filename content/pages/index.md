@@ -56,7 +56,7 @@ sections:
       url: 'https://www.facebook.com/share/r/15yWvkFcoX/?mibextid=V2iOCx'
       autoplay: true
       loop: true
-      muted: true
+      muted: false
       controls: false
       aspectRatio: '16:9'
       styles:

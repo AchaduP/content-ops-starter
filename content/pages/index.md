@@ -58,7 +58,7 @@ sections:
       loop: true
       muted: false
       controls: false
-      aspectRatio: '16:9'
+      aspectRatio: '4:3'
       styles:
         self:
           padding:

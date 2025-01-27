@@ -52,7 +52,7 @@ sections:
           - pr-16
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Purpose
       url: 'https://youtu.be/4VtXhZ0fQOE?si=_A23p8A7AU2kovOK'
       autoplay: true
       loop: true

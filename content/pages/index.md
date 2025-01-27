@@ -54,7 +54,7 @@ sections:
       type: VideoBlock
       title: Purpose
       url: 'https://youtu.be/4VtXhZ0fQOE?si=_A23p8A7AU2kovOK'
-      autoplay: false
+      autoplay: true
       loop: true
       muted: false
       controls: false
